@@ -1,5 +1,5 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/Baianoware/trouxa)](https://goreportcard.com/report/github.com/Baianoware/trouxa)
-![Github Action Card](https://github.com/Baianoware/trouxa/actions/workflows/go.yml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/henrybarreto/trouxa)](https://goreportcard.com/report/github.com/henrybarreto/trouxa)
+![Github Action Card](https://github.com/henrybarreto/trouxa/actions/workflows/go.yml/badge.svg)
 # Trouxa
 
 It is an easy and fast tool to install your packages with just one command.

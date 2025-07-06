@@ -4,17 +4,17 @@ import (
 	"fmt"
 	"os/exec"
 
-	"github.com/Bainoware/trouxa/internal/manager"
-	"github.com/Bainoware/trouxa/internal/manager/apk"
-	"github.com/Bainoware/trouxa/internal/manager/apt"
-	"github.com/Bainoware/trouxa/internal/manager/aptitude"
-	"github.com/Bainoware/trouxa/internal/manager/dnf"
-	"github.com/Bainoware/trouxa/internal/manager/eopkg"
-	"github.com/Bainoware/trouxa/internal/manager/pacman"
-	"github.com/Bainoware/trouxa/internal/manager/snap"
-	"github.com/Bainoware/trouxa/internal/manager/yay"
-	"github.com/Bainoware/trouxa/internal/manager/yum"
-	"github.com/Bainoware/trouxa/internal/manager/zypper"
+	"github.com/henrybarreto/trouxa/internal/manager"
+	"github.com/henrybarreto/trouxa/internal/manager/apk"
+	"github.com/henrybarreto/trouxa/internal/manager/apt"
+	"github.com/henrybarreto/trouxa/internal/manager/aptitude"
+	"github.com/henrybarreto/trouxa/internal/manager/dnf"
+	"github.com/henrybarreto/trouxa/internal/manager/eopkg"
+	"github.com/henrybarreto/trouxa/internal/manager/pacman"
+	"github.com/henrybarreto/trouxa/internal/manager/snap"
+	"github.com/henrybarreto/trouxa/internal/manager/yay"
+	"github.com/henrybarreto/trouxa/internal/manager/yum"
+	"github.com/henrybarreto/trouxa/internal/manager/zypper"
 )
 
 // Commander interface with methods used to build install and uninstall commands

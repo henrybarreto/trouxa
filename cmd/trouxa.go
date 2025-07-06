@@ -5,10 +5,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Bainoware/trouxa/internal/commander"
-	"github.com/Bainoware/trouxa/internal/input"
-	"github.com/Bainoware/trouxa/internal/manager"
-	"github.com/Bainoware/trouxa/internal/parser"
+	"github.com/henrybarreto/trouxa/internal/commander"
+	"github.com/henrybarreto/trouxa/internal/input"
+	"github.com/henrybarreto/trouxa/internal/manager"
+	"github.com/henrybarreto/trouxa/internal/parser"
 	"github.com/spf13/cobra"
 )
 

@@ -3,7 +3,7 @@ package parser
 import (
 	"testing"
 
-	"github.com/Bainoware/trouxa/internal/entities"
+	"github.com/henrybarreto/trouxa/internal/entities"
 )
 
 func TestParser(t *testing.T) {

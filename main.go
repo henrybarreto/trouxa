@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Bainoware/trouxa/cmd"
+	"github.com/henrybarreto/trouxa/cmd"
 )
 
 func main() {

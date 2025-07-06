@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Bainoware/trouxa/internal/entities"
+	"github.com/henrybarreto/trouxa/internal/entities"
 )
 
 // Parse the packages' list from config file to entities.Packages.
